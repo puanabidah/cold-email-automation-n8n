@@ -35,4 +35,4 @@ This project automates personalized cold emails using Gmail and Google Sheets vi
 
 ## 🧩 Workflow File
 
-You can import the workflow using ![my-workflow.json](./my-workflow.json) file.
+You can import the workflow using [my-workflow.json](./my-workflow.json) file.
