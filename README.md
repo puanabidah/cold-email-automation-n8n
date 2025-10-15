@@ -32,6 +32,8 @@ This project automates personalized cold emails using Gmail and Google Sheets vi
   ![Execution Screenshot](./assets/execution-success.png)
 - Google Sheets Data Report
   ![Google Sheets Data Screenshot](./assets/google-sheets-data-report.png)
+  - Sent Email Screenshot
+    ![Sent Email Screenshot](./assets/sent-gmail.png)
 
 ## 🧩 Workflow File
 
